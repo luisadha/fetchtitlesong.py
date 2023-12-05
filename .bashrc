@@ -1,3 +1,7 @@
+: " YOUR CODE "
+
+# Assume the above is part of your code
+
 function fetchDate() {
   echo -e "$(date '+%A, %B %d, %Y at %H:%M')" | lolcat # motd sederhana
 }
